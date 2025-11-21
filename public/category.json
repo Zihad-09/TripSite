@@ -1,0 +1,50 @@
+[
+  {
+    "id": "beach",
+    "name": "Beach Escapes",
+    "description": "Experience the calmness of golden sandy beaches, crystal-clear waters, and warm sunshine. Whether you want to relax under palm trees, enjoy water sports, or take a romantic sunset walk along the shoreline, our beach escapes offer the perfect gateway to unwind and refresh both the mind and body.",
+    "image": "https://i.ibb.co.com/0pgyy32N/Hotel.webp"
+  },
+  {
+    "id": "mountain",
+    "name": "Mountain Adventures",
+    "description": "Explore breathtaking mountain peaks, scenic hiking trails, and adventurous camping experiences. Enjoy the fresh air and natural beauty while discovering wildlife, waterfalls, and hidden viewpoints. Perfect for thrill-seekers, nature lovers, and those who crave challenges beyond the ordinary travel experience.",
+    "image": "https://i.ibb.co.com/mrdvbv2Q/hiking.webp"
+  },
+  {
+    "id": "river",
+    "name": "River Journeys",
+    "description": "Take an exciting trip along beautiful rivers, surrounded by peaceful landscapes. From thrilling rafting adventures and kayaking fun to calm and luxurious river cruises, enjoy a refreshing journey that connects you closely with nature, culture, and stunning riverfront sights.",
+    "image": "https://i.ibb.co.com/b5ddB2Hg/Boat.webp"
+  },
+  {
+    "id": "forest",
+    "name": "Forest Retreats",
+    "description": "Recharge your soul deep within lush green forests filled with birdsong, fresh air, and serene natural beauty. Enjoy trekking, camping, or simply relaxing in quiet nature lodges. A perfect escape for those looking to disconnect from the busy world and embrace calmness and peace.",
+    "image": "https://i.ibb.co.com/JbD1H2T/bike.webp"
+  },
+  {
+    "id": "popular",
+    "name": "Popular Spots",
+    "description": "Discover the world’s most loved and top-rated travel destinations. These popular spots offer exciting attractions, famous landmarks, delicious foods, and vibrant city life. Perfect for travelers who want to explore the trending places everyone is talking about and collect unforgettable memories.",
+    "image": "/images/categories/popular.jpg"
+  },
+  {
+    "id": "wildlife",
+    "name": "Wildlife Safaris",
+    "description": "Step into the wild and witness amazing animals in their natural homes. Safari journeys give you memorable encounters with elephants, lions, zebras, and many more fascinating creatures. A thrilling mix of adventure, nature, and unforgettable wildlife photography moments.",
+    "image": "/images/categories/wildlife.jpg"
+  },
+  {
+    "id": "culture",
+    "name": "Cultural Journeys",
+    "description": "Travel through history, art, music, and cultural traditions from around the globe. Explore ancient ruins, museums, and local lifestyles to better understand the heritage and stories that shape each destination. Perfect for curious minds and cultural explorers.",
+    "image": "/images/categories/culture.jpg"
+  },
+  {
+    "id": "adventure",
+    "name": "Adventure Tours",
+    "description": "Thrill yourself with exciting outdoor activities like mountain climbing, river rafting, cycling trails, desert safaris, and bungee jumping. Adventure tours are crafted for those who love challenges, excitement, and unforgettable adrenaline-pumping experiences in stunning locations.",
+    "image": "/images/categories/adventure.jpg"
+  }
+]
